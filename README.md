@@ -6,6 +6,7 @@ Contains two XLS files formatting the household surveys that were conducted in f
 
 **Citation:** Pessoa Colombo V. Contextualizing water, sanitation, and hygiene services in informal settlements: lessons from Côte d’Ivoire and Kenya. *PhD thesis*. EPFL: Lausanne. 2023.
 
+
 ## Option A: open questionnaire in KoboToolbox (personal account required)
 
 ### 1. Log in to your Kobo account
@@ -15,6 +16,7 @@ https://www.kobotoolbox.org/
 ### 2. Create a new project, and select the "import xls" option
 
 ### 3. Select one of the XLS files here (it must be done one at the time)
+
 
 ## Option B: open questionnaire online
 
