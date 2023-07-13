@@ -4,7 +4,7 @@
 
 Contains two XLS files formatting the household surveys that were conducted in four informal settlements (two in Abidjan, two in Nairobi), in the context of my PhD thesis. The XLS files can be imported directly into KoboToolbox. They were implemented using the mobile application KoboCollect.
 
-**Citation:** Pessoa Colombo V. Contextualizing water, sanitation, and hygiene services in informal settlements: lessons from Côte d’Ivoire and Kenya. *PhD thesis*. EPFL: Lausanne. 2023.
+**Citation:** Pessoa Colombo V. *Contextualizing water, sanitation, and hygiene services in informal settlements: lessons from Côte d’Ivoire and Kenya.* PhD thesis. EPFL: Lausanne. 2023.
 
 ##
 ## Option A: open questionnaire in KoboToolbox (personal account required)
