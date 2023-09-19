@@ -11,7 +11,7 @@
 **Citation:** Pessoa Colombo V. *Contextualizing water, sanitation, and hygiene services in informal settlements: lessons from Côte d’Ivoire and Kenya.* PhD thesis. EPFL: Lausanne. 2023.
 
 ##
-## Option A: open questionnaire in KoboToolbox (personal account required)
+## Visualizing questionnaire in KoboToolbox (personal account required)
 
 ### 1. Log in to your Kobo account
 
@@ -22,7 +22,7 @@ https://www.kobotoolbox.org/
 ### 3. Select one of the XLS files in the "questionnaires" folder (it must be done one at the time)
 
 ##
-## Option B: open questionnaire online
+## Visualizing questionnaire online
 
 ### 1. Click on one of the links below:
 
