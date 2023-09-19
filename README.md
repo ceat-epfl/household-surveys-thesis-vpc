@@ -2,7 +2,11 @@
 
 # Structured questionnaires used in household surveys in Abidjan and in Nairobi.
 
-Contains two XLS files formatting the household surveys that were conducted in four informal settlements (two in Abidjan, two in Nairobi), in the context of my PhD thesis. The XLS files can be imported directly into KoboToolbox. They were implemented using the mobile application KoboCollect.
+##
+## Contents
+- **data folder:** CSV files containing anonymized data at individual and household levels.
+- **notebooks folder:** Python notebooks with general descriptive statistics of the surveyed individuals.
+- **questionnaires folder:** two XLS files formatting the household surveys that were conducted in four informal settlements (two in Abidjan, two in Nairobi), in the context of my PhD thesis. The questionnaires were implemented using the mobile application KoboCollect. The XLS files can be imported directly into KoboToolbox (see instructions below).
 
 **Citation:** Pessoa Colombo V. *Contextualizing water, sanitation, and hygiene services in informal settlements: lessons from Côte d’Ivoire and Kenya.* PhD thesis. EPFL: Lausanne. 2023.
 
