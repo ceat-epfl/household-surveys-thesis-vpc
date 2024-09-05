@@ -26,7 +26,7 @@ Note: the two XLS files were elaborated in a format compatible with KoboToolbox:
 
 *label*:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*list of questions asked to participant*\
 
-*hint*:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*hint (note) to the enumerator (when clarifications are needed)*\
+*hint*:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*hint (note) to the enumerator (when clarifications are needed)*\
 
 *required*:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*whether question is mandatory*\
 
