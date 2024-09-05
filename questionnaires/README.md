@@ -34,7 +34,7 @@ Note: the two XLS files were elaborated in a format compatible with KoboToolbox:
 
 #### Variables in sheet "choices"  
 
-*list_name*:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*identifier connecting list of choices to specific question in sheet "survey"*
+*list_name*:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*identifier connecting list of choices to specific question in sheet "survey"*
 
 *name*:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*list of answer options as they appear in the CSV files (see data files)*
 
