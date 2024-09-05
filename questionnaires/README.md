@@ -4,8 +4,7 @@
 
 Note: the two XLS files were elaborated in a format compatible with KoboToolbox: they can be directly imported on the KoboToolbox web platform to generate a structured questionnaire.
 
-  
-**Variables in sheet "survey"**  
+#### Variables in sheet "survey"  
 
 *type*:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*type of question*\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- start: automatically register beginning of survey\
@@ -33,6 +32,6 @@ Note: the two XLS files were elaborated in a format compatible with KoboToolbox:
 
 *constraint*:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*limitations to data entry (coded in regex)*\
 
-**Variables in sheet "choices"**  
+#### Variables in sheet "choices"  
 
 *list_name*:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*identifier connecting list of choices to specific question in sheet "survey"*\
