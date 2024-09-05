@@ -36,6 +36,6 @@ Note: the two XLS files were elaborated in a format compatible with KoboToolbox:
 
 *list_name*:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*identifier connecting list of choices to specific question in sheet "survey"*
 
-*name*:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*list of answer options as they appear in the CSV files (see data files)*
+*name*:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*list of answer options as they appear in the CSV files (see data files)*
 
-*label*:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*label attributed to each answer option*
+*label*:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*label attributed to each answer option*
