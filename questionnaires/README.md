@@ -28,10 +28,14 @@ Note: the two XLS files were elaborated in a format compatible with KoboToolbox:
 
 *hint*:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*hint (note) to the enumerator (when clarifications are needed)*
 
-*required*:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*whether question is mandatory*
+*required*:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*whether question is mandatory*
 
 *constraint*:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*limitations to data entry (coded in regex)*
 
 #### Variables in sheet "choices"  
 
 *list_name*:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*identifier connecting list of choices to specific question in sheet "survey"*
+
+*name*:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*list of answer options as they appear in the CSV files (see data files)*
+
+*label*:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*label attributed to each answer option*
