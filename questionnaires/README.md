@@ -4,7 +4,7 @@
 
 Note: the two XLS files were elaborated in a format compatible with KoboToolbox: they can be directly imported on the KoboToolbox web platform to generate a structured questionnaire.
 
-
+  
 **Variables in sheet "survey"**  
 
 *type*:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*type of question*\
