@@ -12,3 +12,9 @@
             predefined number of times (here, n° of household members)\
             text: open text\
             select_one: select only one option among several\
+
+| Month    | Assignee | Backup |
+| -------- | -------- | ------ |
+| January  | Dave     | Steve  |
+| February | Gregg    | Karen  |
+| March    | Diane    | Jorge  |
