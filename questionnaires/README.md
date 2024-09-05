@@ -20,18 +20,18 @@ Note: the two XLS files were elaborated in a format compatible with KoboToolbox:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- integer: enter an integer value\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- select_one: select only one option among several\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- select_multiple: select one or more option(s) among several\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- geopoint: register geographic coordinates of current location\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- geopoint: register geographic coordinates of current location
 
-*name*:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*list of variable names as they appear in the CSV files (see data files)*\
+*name*:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*list of variable names as they appear in the CSV files (see data files)*
 
-*label*:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*list of questions asked to participant*\
+*label*:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*list of questions asked to participant*
 
-*hint*:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*hint (note) to the enumerator (when clarifications are needed)*\
+*hint*:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*hint (note) to the enumerator (when clarifications are needed)*
 
-*required*:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*whether question is mandatory*\
+*required*:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*whether question is mandatory*
 
-*constraint*:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*limitations to data entry (coded in regex)*\
+*constraint*:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*limitations to data entry (coded in regex)*
 
 #### Variables in sheet "choices"  
 
-*list_name*:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*identifier connecting list of choices to specific question in sheet "survey"*\
+*list_name*:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*identifier connecting list of choices to specific question in sheet "survey"*
