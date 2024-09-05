@@ -1,6 +1,6 @@
 # Read before using questionnaire (XLS) files
 
-## Details of dictonnaire files named "Abidjan_2022" and "Nairobi_2021"
+### Details of dictonnaire files named "Abidjan_2022" and "Nairobi_2021"
 
 Note: the two XLS files were elaborated in a format compatible with KoboToolbox: they can be directly imported on the KoboToolbox web platform to generate a structured questionnaire.
 
