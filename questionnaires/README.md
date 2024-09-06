@@ -4,7 +4,7 @@
 
 The two XLS files were elaborated in a format compatible with KoboToolbox: they can be directly imported on the KoboToolbox web platform to generate a structured questionnaire.
 
-Given XLS is a proprietary format, CSV versions of these two files are also provided in the folder "data_csv". The CSVs contain the exact same information than the XLS, with the difference that 2 CSVs are needed for each XLS file (1 CSV per sheet in the XLS).
+Given XLS is a proprietary format, CSV versions of these two files are also provided in the folder "questionnaires_csv". The CSVs contain the exact same information than the XLS, with the difference that 2 CSVs are needed for each XLS file (1 CSV per sheet in the XLS).
 
 #### Variables in sheet "survey"  
 
